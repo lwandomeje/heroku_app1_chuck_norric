@@ -15,4 +15,4 @@ def get_chuck_norris_jokes():
     return "<strong>Random joke from chuck norris: </strong>" + response['value'] + image
 if __name__ =="__main__":
     app.run(debug=True)
-    FLASK_APP = app.py
+    # FLASK_APP = app.py
